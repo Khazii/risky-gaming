@@ -1,0 +1,12 @@
+html, body {
+	font-family: 'Helvetica Neue', arial, sans-serif;
+	color: white;
+	background-color: #0b090a;
+	background-image: url('./memers.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	font-size: 16px;
+	display: flex;
+	height: 100%;
+}
